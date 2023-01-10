@@ -1,2 +1,2 @@
 console.log("ola")
-console.log("2
+console.log("2")
